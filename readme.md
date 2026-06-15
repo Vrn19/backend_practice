@@ -1,0 +1,5 @@
+# BACKEND PRACTICE
+
+backend with javascript
+
+-[Model LInk](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0xuZzdHMGVOMTN1VnFJaVdnZW9heHhveTBZZ3xBQ3Jtc0tuQ2JfUDNXRFJ5OVRRVXJhbzVMU09kU1pDbGtyMVlaSUR2b0NucW5iM21pZzZsb0t5X01oaU1MSXE0cHdHQVhSZ05KMkl0Xy1wOHZGLXllTDV6WGlTVHdTUm5SdGNOV1BudHVZNUViZGJpUkVNb0N1RQ&q=https%3A%2F%2Fapp.eraser.io%2Fworkspace%2FYtPqZ1VogxGy1jzIDkzj%3Forigin%3Dshare&v=9B4CvtzXRpc)
